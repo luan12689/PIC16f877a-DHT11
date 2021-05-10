@@ -1,0 +1,24 @@
+[PROJECT]
+Target=Mach_CB_Mua_DHT11_LCD_Loa_Pic.hex
+Processor_Text=PIC16F877A
+CCSVersion=5.015
+Compiler=PCM
+[Target Data]
+FileList=Mach_CB_Mua_DHT11_LCD_Loa_Pic.c
+[Directories]
+Include=C:\Program Files (x86)\PICC\Devices\;C:\Program Files (x86)\PICC\Drivers\
+[Mach_CB_Mua_DHT11_LCD_Loa_Pic.c]
+Type=4
+[mru-list]
+1=Mach_CB_Mua_DHT11_LCD_Loa_Pic.c
+[Opened Files]
+1=..\176.Hung_Mach_DK_DC_4NN_LCD_Pic\Mach_DK_DC_4NN_LCD_Pic_bang_34.c
+2=..\176.Hung_Mach_DK_DC_4NN_LCD_Pic\TV_LCD_16X2.c
+3=..\177.Hieu_Mach_LM35,DS1307_3NN_LCD_Pic\Mach_LM35,DS1307_3NN_LCD_Pic.c
+4=..\174.Dat_Mach_DS1307_GLCD_hen_gio_Pic\Mach_DS1307_GLCD_hen_gio_Pic.c
+5=Mach_CB_Mua_DHT11_LCD_Loa_Pic.c
+6=C:\Program Files (x86)\PICC\Devices\16F877a.h
+7=
+[Units]
+Count=1
+1=Mach_CB_Mua_DHT11_LCD_Loa_Pic (main)
